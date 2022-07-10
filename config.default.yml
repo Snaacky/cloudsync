@@ -1,0 +1,7 @@
+qbittorrent:
+  host: https://qbittorrent.domain.tld
+  username: username
+  password: P4$$w0rd!
+sonarr:
+  host: https://sonarr.domain.tld
+  api_key: 00000000000000000000000000000000
